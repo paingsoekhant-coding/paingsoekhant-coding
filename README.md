@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PaingSKhant?tab=repositories](https://github.com/PaingSKhant?tab=repositories)
 
-- 💬 Ask me about **laravel**
+- 💬 Ask me about **laravel,PHP**
 
 - 📫 How to reach me **https://web.facebook.com/paingsoe.khant.7773**
 
