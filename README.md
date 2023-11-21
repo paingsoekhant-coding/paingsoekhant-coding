@@ -30,4 +30,3 @@ src="https://img.shields.io/github/followers/PaingSKhant?logo=github&style=for-t
 
 <a href="http://www.github.com/PaingSKhant"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PaingSKhant&stroke=14b8a6&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=14b8a6&currStreakLabel=ef4444&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/PaingSKhant"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=PaingSKhant&bg_color=0f172a&color=14b8a6&line=ef4444&point=14b8a6&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
