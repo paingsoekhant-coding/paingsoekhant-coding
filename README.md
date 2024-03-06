@@ -12,6 +12,9 @@
 <div> <a href="https://www.linkedin.com/in/paing-soe-khant-baby-boss-4a5897243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/PaingSKhant" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:babyboss7916@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <p align="left">
+<a href="https://fb.com/https://www.facebook.com/paingsoe.khant.7773" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="https://www.facebook.com/paingsoe.khant.7773" height="30" width="40" /></a></p>
+
 </div>
 <p align="left">
 
