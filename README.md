@@ -14,7 +14,6 @@
 <a href = "mailto:babyboss7916@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/Paing Soe Khant(Baby Boss)](https://www.linkedin.com/in/paing-soe-khant-baby-boss-4a5897243/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Paing Soe Khant(Baby Boss)" height="30" width="40" /></a><a href="https://fb.com/Paing Soe Khant" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Paing Soe Khant" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
