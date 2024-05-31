@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PaingSKhant&theme=discord" alt="PaingSKhant" /></a> </p>
 
-- 🌱 I’m currently learning **ruby on rails**
+- 🌱 I’m currently learning **React**
 - 💬 Ask me about **php , laravel**
 - 📫 How to reach me **babyboss7916@gmail.com**
 
