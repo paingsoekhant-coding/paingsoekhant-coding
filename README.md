@@ -63,17 +63,4 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
 
-<h3 align="left">Stars</h3>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PaingSKhant&theme=blue-green" alt="PaingSKhant" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/PaingSKhant">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PaingSKhant&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PaingSKhant&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaingSKhant&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PaingSKhant&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaingSKhant&theme=blueberry" height="180em" />
-</div>
