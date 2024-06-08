@@ -20,9 +20,7 @@ Hello! **I'm a junior backend developer.**. Here, you will find projects were I'
   <img alt="Git" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />
   <img alt="Notion" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
   <img alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="mysql" height="30" width="40" src="	https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
   <img alt="vscode" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
-  <img alt="postman" height="30" width="40" src="	https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png">
   <img alt="bootstrap" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">
   <img alt="tailwind" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png">
 </div>
