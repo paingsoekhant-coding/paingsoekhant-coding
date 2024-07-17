@@ -2,7 +2,7 @@
 
 #### A Junior Web Developer from Myanmar.
 
-- ⚙️ I use daily:
+#### ⚙️ I use daily:
 ![php](https://www.vectorlogo.zone/logos/php/php-vertical.svg)
   ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg)
  ![Javascript](https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg)
