@@ -1,18 +1,8 @@
-### Hello there , I am Paing Soe Khant.👋
+# 💫 About Me:
+Hello there , I am Paing Soe Khant Junior Web Developer From Myanmar.
 
-#### A Junior Web Developer from Myanmar.
 
-#### ⚙️ I use daily:
-![php](https://www.vectorlogo.zone/logos/php/php-vertical.svg)
-  ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg)
- ![Javascript](https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg)
-  ![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg)
-  ![TailwindCss](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg)
- ![jquery](https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg)
- ![github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
- ![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
- ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg)
- ![mysql](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg)
- ![sqlite](https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg)
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- 💬 `ping` me about **design**, **laravel** , **php**, **development**, **design thinking**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
